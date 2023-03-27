@@ -6,7 +6,7 @@ namespace isimSoyisim
     {
         public static void Main(string[] args)
         {
-            #region Ödevimsi (Senan yaptı)
+            #region Ödevimsi (Senanın yaptığı)
 
             Console.Write("İsim ve Soyisim Giriniz: ");
             string isimSoyisim = Console.ReadLine();
